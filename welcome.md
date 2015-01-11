@@ -141,5 +141,18 @@ jack a dull boy, so we've planned some activities around Berlin and you'll have
 a lot of time to enjoy the city as well as further your career!
 
 ### An Overview
+We expect to cover 3 seemingly separate yet curiously connected topics.
 
-TODO
+We will start with a gentle introduction to Algorithms.
+
+Our next topic will be Design Patterns.
+
+And finally, a short introduction to the open source world, some Ruby, some git,
+and then a tour of the web and its technologies, followed by building a very
+simple web app!
+
+### Algorithms?
+
+### Design Patterns?
+
+### Open Source? Ruby? Git? The Web?
