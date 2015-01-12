@@ -8,6 +8,12 @@ There is some *important information* here (that you should have also received
 otherwise, for posterity) so if you are in a hurry (which you shouldn't be) then
 *at least* read the _Installation Instructions_ section below.
 
+Also make sure you know where everything is:   
+Our Whiteboard: https://code.stypi.com/mnzaki/guc-bootcamp-whiteboard   
+Our Mailing List: https://groups.google.com/d/forum/guc-met-berlin-bootcamp-2015
+
+Sign up to the mailing list! There will be some information there!
+
 If you are not in a hurry and you want a headstart for your headstart, then read
 on past that section!
 
