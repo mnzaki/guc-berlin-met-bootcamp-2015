@@ -199,6 +199,12 @@ document you are reading right now is in a git repository on github right
 introduce git's basic usage, but if you want a nice fun interactive online
 tutorial then check out try-git: https://try.github.io/
 
+Also while introducing git we'll go through some basic command line usage. You'll
+be able to give the computer instructions by typing arcane commands in a black
+window instead of clicking on buttons. You are a computer science student, GUIs
+are for mere users! But don't be fooled, the command line is not just 'cool' or
+for 'hackers,' it gives you a lot more power!
+
 Next on our agenda will be an introduction to ruby. Ruby is a [dynamic programming
 language](http://en.wikipedia.org/wiki/Dynamic_programming_language). Ruby's syntax
 is very 'natural' and quite pleasing as long as you take care to not shoot yourself
