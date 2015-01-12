@@ -90,7 +90,7 @@ It's a complete solution for all your coding needs, especially Java coding needs
 (code completion, code refactoring, error hints, etc) and also build and debug it.
 We are going to use Eclipse for all our Java coding.
 
-[Sublime3](www.sublimetext.com/) is a "sophisticated text editor for code, markup
+[Sublime3](http://www.sublimetext.com/) is a "sophisticated text editor for code, markup
 and prose. You'll love the slick user interface, extraordinary features and 
 amazing performance."
 
@@ -104,7 +104,7 @@ language with a focus on simplicity and productivity. It has an elegant syntax
 that is natural to read and easy to write." If you are interested we highly
 encourage you to check it out and maybe even [try ruby online!](http://tryruby.org/levels/1/challenges/0)
 
-[Sinatra](www.sinatrarb.com/) is a ruby gem (gems are what rubyists call their modules).
+[Sinatra](http://www.sinatrarb.com/) is a ruby gem (gems are what rubyists call their modules).
 It's a gem that provides an elegant framework to quickly build web apps.
 
 SQlite3 is a simple file-backed (non-networked) SQL database engine.
@@ -130,7 +130,7 @@ Finally, install the gems we will need using the 'gem' command:
          gem install do_sqlite3
 
 If you are not a linux user, we highly encourage you to try it out by perhaps
-installing [Ubuntu](www.ubuntu.com/), even if on a [Virtual Machine](https://www.virtualbox.org/).
+installing [Ubuntu](http://www.ubuntu.com/), even if on a [Virtual Machine](https://www.virtualbox.org/).
 We believe you will thank us later.
 
 ## A Headstart
@@ -211,5 +211,5 @@ Next we'll tackle the web. Ever wondered how facebook or twitter or instagram
 work? What goes on behind the scenes to let you see what your best friend had
 for lunch and what the latest political fiasco is? We'll give you some hints!
 
-We'll use a framework called [Sinatra](www.sinatrarb.com/) to introduce web
+We'll use a framework called [Sinatra](http://www.sinatrarb.com/) to introduce web
 concepts in a hands-on approach and we'll build a simple web app in the process.
