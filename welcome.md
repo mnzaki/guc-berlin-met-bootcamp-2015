@@ -152,6 +152,8 @@ and then a tour of the web and its technologies, followed by building a very
 simple web app!
 
 ### Algorithms?
+And data structures. You have learned about Stacks and Queues, and sorting
+algorithms, and it's time to see some slightly more complicated things.
 
 ### OOP and Design Patterns
 We will introduce you to Object-Oriented Programming in Java, which should help
@@ -161,3 +163,42 @@ to solve development problems and reach a stable, maintainable application rathe
 than reinventing the wheel every other day!
 
 ### Open Source? Ruby? Git? The Web?
+The Open Source movement is a world wide collective of developers who believe in
+Free software. Not 'free' as in 'free beer' but 'free' as in 'free speech'
+
+Thanks to the open source movement we have millions upon millions of freely
+available lines of code and documents which everyone is free to contribute to or
+use. It is not a centralized or organized movement in anyway, but there are
+several places around which developers congregate, one of which is 
+[Github](http://github.com), a social platform that leverages 
+[Git](http://git-scm.com/) to allow large scale collaboration on code.
+
+But you can also use git to manage your own personal projects of course! Git
+allows you to breakdown your development process into small incremental changes
+and then gives you the power to track what changed where and when and how and by
+whom. Once you grasp git you will not start a project without it. In fact this
+document you are reading right now is in a git repository on github right
+[here](https://github.com/mnzaki/guc-berlin-met-bootcamp-2015). We will
+introduce git's basic usage, but if you want a nice fun interactive online
+tutorial then check out try-git: https://try.github.io/
+
+Next on our agenda will be an introduction to ruby. Ruby is a [dynamic programming
+language](http://en.wikipedia.org/wiki/Dynamic_programming_language). Ruby's syntax
+is very 'natural' and quite pleasing as long as you take care to not shoot yourself
+in the foot. As a small teaser, check this out:
+
+      >>> ws = ["what", "when", "where", "how", "why"]
+      >>> 2.times { puts "I want to know #{ws.sample}!" }
+      I want to know how!
+      I want to know why!
+      
+Now compare that to Java and realize how much faster you can write code! If you
+want to check out ruby then we highly recommend you try out this great interactive
+online tutorial (it takes 15 minutes): http://tryruby.org
+
+Next we'll tackle the web. Ever wondered how facebook or twitter or instagram
+work? What goes on behind the scenes to let you see what your best friend had
+for lunch and what the latest political fiasco is? We'll give you some hints!
+
+We'll use a framework called [Sinatra](www.sinatrarb.com/) to introduce web
+concepts in a hands-on approach and we'll build a simple web app in the process.
