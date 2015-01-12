@@ -33,6 +33,11 @@ If you are a linux user please skip to the _Linux Section_ below.
 4. SQlite3 (both files):   
     http://www.sqlite.org/2014/sqlite-dll-win32-x86-3080704.zip    
     http://www.sqlite.org/2014/sqlite-shell-win32-x86-3080704.zip    
+5. If you don't have a favorite text editor then grab Sublime3 from here:
+   1. Windows 32 bit:
+        http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%20Build%203065%20Setup.exe
+   2. Windows 64 bit:
+        http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%20Build%203065%20x64%20Setup.exe
 
 ### Installations for Windows Users
 
@@ -47,6 +52,8 @@ If you are a linux user please skip to the _Linux Section_ below.
     a. sqlite3.exe
     b. sqlite3.dll
     c. sqlite3.def
+
+4. Install Sublime3 by running the installation file you downloaded.
 
 The rest of the installations will require the use of the command prompt. You
 can open the command prompt by opening the start menu (or the start page on Windows 8)
@@ -82,6 +89,10 @@ It's a complete solution for all your coding needs, especially Java coding needs
 (but many more languages are supported). It gives you tools to quickly write code
 (code completion, code refactoring, error hints, etc) and also build and debug it.
 We are going to use Eclipse for all our Java coding.
+
+[Sublime3](www.sublimetext.com/) is a "sophisticated text editor for code, markup
+and prose. You'll love the slick user interface, extraordinary features and 
+amazing performance."
 
 [Git](http://git-scm.com/) is an _SCM (Source Code Management)_ tool. It provides
 you with a way to store, share and version your code. Ever found yourself asking
