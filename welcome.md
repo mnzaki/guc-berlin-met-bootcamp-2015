@@ -154,6 +154,10 @@ simple web app!
 ### Algorithms?
 
 ### OOP and Design Patterns
-We will try to introduce you to Object-Oriented Programming in Java, which should help you think Object-Oriented while developing your applications in the future. As well as introducing you to the world of Design Patterns, the standards developers invented through the years to solve development problems and reach a stable, maintainable applications rather than inventing the wheel! 
+We will introduce you to Object-Oriented Programming in Java, which should help
+you think Object-Oriented while developing your applications in the future. We
+will talk about Design Patterns, the standards developers invented over the years
+to solve development problems and reach a stable, maintainable application rather
+than reinventing the wheel every other day!
 
 ### Open Source? Ruby? Git? The Web?
