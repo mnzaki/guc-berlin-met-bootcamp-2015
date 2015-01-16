@@ -9,17 +9,19 @@ public class DinerMenuIterator implements Iterator {
 	}
 
 	public Object next() {
-		MenuItem menuItem = list[position];
-		position = position + 1;
+		MenuItem menuItem = null;
+		// TODO
+		// Set the menuItem to current one from the list according to the position to return it
+		// menuItem =
+		// update the position counter
+		// position
 		return menuItem;
 	}
 
 	public boolean hasNext() {
-		if (position >= list.length || list[position] == null) {
-			return false;
-		} else {
-			return true;
-		}
+		// TODO
+		// return true if the position is still inside the list range
+		return false;
 	}
 
 	public void remove() {
