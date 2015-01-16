@@ -5,15 +5,14 @@ public class SimplePizzaFactory {
 	public Pizza createPizza(String type) {
 		Pizza pizza = null;
 
+		// TODO
+		// Edit the commented code below to initialize the "pizza" object with an instance of the correct class of the "type"
+		/*
 		if (type.equals("cheese")) {
-			pizza = new CheesePizza();
-		} else if (type.equals("pepperoni")) {
-			pizza = new PepperoniPizza();
-		} else if (type.equals("clam")) {
-			pizza = new ClamPizza();
-		} else if (type.equals("veggie")) {
-			pizza = new VeggiePizza();
-		}
+			pizza =
+		} else if ()
+		*/
+
 		return pizza;
 	}
 }
