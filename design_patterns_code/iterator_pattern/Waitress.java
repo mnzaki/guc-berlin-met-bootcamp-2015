@@ -1,24 +1,20 @@
-package headfirst.iterator.transition;
-import java.util.*;
-  
-     
+import java.util.Iterator;
+
 public class Waitress {
-	ArrayList menus;
-     
-  
-	public Waitress(ArrayList menus) {
-		this.menus = menus;
+	Menu dinerMenu;
+
+	public Waitress(Menu dinerMenu) {
+		this.dinerMenu = dinerMenu;
 	}
-   
+
 	public void printMenu() {
-		Iterator menuIterator = menus.iterator();
-		while(menuIterator.hasNext()) {
-			Menu menu = (Menu)menuIterator.next();
-			printMenu(menu.createIterator());
-		}
+		Iterator dinerIterator = dinerMenu.createIterator();
+
+		System.out.println("\nLUNCH");
+		printMenu(dinerIterator);
 	}
-   
-	void printMenu(Iterator iterator) {
+
+	private void printMenu(Iterator iterator) {
 		while (iterator.hasNext()) {
 			MenuItem menuItem = (MenuItem)iterator.next();
 			System.out.print(menuItem.getName() + ", ");
@@ -26,4 +22,4 @@ public class Waitress {
 			System.out.println(menuItem.getDescription());
 		}
 	}
-}  
+}
